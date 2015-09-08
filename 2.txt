@@ -1,2 +1,3 @@
 I am the firstfeature
 I am added after commiting the firstfeature
+I dont create any conflicts
